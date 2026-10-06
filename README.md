@@ -1,2 +1,2 @@
 # prac.js
-new repo fir learning
+new repo for learning
